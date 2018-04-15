@@ -1,0 +1,21 @@
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\WSR Files\WSRCalculoISR\ConsoleApplication2\obj\Debug\CalculoISR.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\WSR Files\WSRCalculoISR\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\WSR Files\WSRCalculoISR\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\WSR Files\WSRCalculoISR\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\WSR Files\WSRCalculoISR\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\WSR Files\WSRCalculoISR\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\wreyes\Documents\Visual Studio 2012\Projects\WSR Files\WSRCalculoISR\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\wreyes\Documents\Visual Studio 2012\Projects\WSR Files\WSRCalculoISR\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\wreyes\Documents\Visual Studio 2012\Projects\WSR Files\WSRCalculoISR\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\CJM5N32\Documents\Visual Studio 2012\Projects\wsrfiles\WSRCalculoISR\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\CJM5N32\Documents\Visual Studio 2012\Projects\wsrfiles\WSRCalculoISR\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\CJM5N32\Documents\Visual Studio 2012\Projects\wsrfiles\WSRCalculoISR\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\CJM5N32\Documents\Visual Studio 2012\Projects\wsrfiles\WSRCalculoISR\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\CJM5N32\Documents\Visual Studio 2012\Projects\wsrfiles\WSRCalculoISR\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\CJM5N32\Documents\Visual Studio 2012\Projects\wsrfiles\WSRCalculoISR\ConsoleApplication2\obj\Debug\CalculoISR.csprojResolveAssemblyReference.cache
+C:\Users\BM\Desktop\WSRCalculoISR\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\BM\Desktop\WSRCalculoISR\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\BM\Desktop\WSRCalculoISR\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\BM\Desktop\WSRCalculoISR\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\BM\Desktop\WSRCalculoISR\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\BM\Desktop\WSRCalculoISR\ConsoleApplication2\obj\Debug\CalculoISR.csprojResolveAssemblyReference.cache
